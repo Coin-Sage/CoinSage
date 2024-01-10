@@ -168,6 +168,7 @@ encrypt_env.py
 .env.key
 .env.encrypted
 
-
+# predictor_data_collector output files
+predictor_data_collector/outputs
 # custom commands
 ```
