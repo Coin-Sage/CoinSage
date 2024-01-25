@@ -31,7 +31,7 @@ and missing information. This approach ensures accuracy and can be applied to ot
 
 # Overview
 
-**Project Structure**
+**Project Structure**<br>
 
 ```
 ├── CoinSageWeb                    -- Main project folder
