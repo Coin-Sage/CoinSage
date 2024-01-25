@@ -1,4 +1,4 @@
-# Why CoinSage?
+# CoinSage
 
 Welcome to CoinSage, your go-to solution for advanced cryptocurrency analytics and predictive insights. 
 CoinSageWeb is designed to offer a wide range of services that set it apart from other platforms. 
