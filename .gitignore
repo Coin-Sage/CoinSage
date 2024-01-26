@@ -170,5 +170,6 @@ encrypt_env.py
 
 # predictor_data_collector output files
 predictor_data_collector/outputs
+predictor_data_collector/data
 # custom commands
 ```
