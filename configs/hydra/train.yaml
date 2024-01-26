@@ -1,0 +1,12 @@
+defaults:
+  - _self_
+  - ml_model: random_forest #orbit - random_forest - sarimax - lstm - gru - prophet
+  - predictor_data_collector: bitmex_config
+  - metrics
+
+validation_method: simple   #simple - cross_validation
+symbol: XBTUSD              # choose a symbol of the coin (XBTUSD, ETHUSD, ...)
+load_path:                  # path to the dataset
+save_dir:
+dataset_path:
+
